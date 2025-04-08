@@ -18,9 +18,4 @@ A sleek and modern real-time chat application built with **Flutter**, designed t
 - **Firebase** – Authentication & Firestore for real-time database
 - **Provider / Riverpod / GetX** – (state management, as applicable)
 
-## 📸 Screenshots
-
-> *(Add your screenshots here if available)*
-
-## 📁 Project Structure
 
